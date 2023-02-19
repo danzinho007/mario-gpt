@@ -6,7 +6,8 @@
 <a href="https://huggingface.co/spaces/multimodalart/mariogpt"><img src="https://img.shields.io/badge/%20HuggingFace%20-Demo-blue.svg" alt="HuggingFace Spaces"></a>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16KR9idJUim6RAiyPASoQAaC768AvOGxP?usp=sharing)
 
-[Playing Generated Level](#interacting-with-levels)            |  Generated Level
+[Playing Generated Level](#interacting-with-levels)  
+Generated Level
 :-------------------------:|:-------------------------:
 ![alt text](static/example_interactive.gif)
 ![alt text](static/test_level.png)
