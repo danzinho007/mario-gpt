@@ -11,6 +11,7 @@ Generated Level
 :-------------------------:|:-------------------------:
 ![alt text](static/example_interactive.gif)
 ![alt text](static/test_level.png)
+![alt text](static/prompt-samples.png)
 
 </div>
 
