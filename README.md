@@ -15,7 +15,6 @@ Generated Level
 
 </div>
 
-
 How does it work?
 ----
 
