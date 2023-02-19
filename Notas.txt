@@ -1,0 +1,8 @@
+O Mario GPT é um modelo de linguagem de inteligência artificial baseado em GPT-3 (Generative Pre-trained Transformer 3), desenvolvido pela OpenAI. Ele é treinado em uma enorme quantidade de dados textuais para poder gerar textos coesos e coerentes em resposta a uma determinada entrada.
+
+O Mario GPT foi treinado especificamente em textos relacionados ao universo do Super Mario, incluindo jogos, personagens, itens e outros elementos desse universo. Isso significa que ele pode responder a perguntas, fornecer informações, contar histórias e até mesmo criar novas narrativas dentro desse contexto.
+
+No entanto, é importante lembrar que o Mario GPT não é uma entidade com consciência própria, ele é apenas uma ferramenta para gerar textos a partir de uma entrada. Isso significa que suas respostas são baseadas apenas nos dados que foram utilizados em seu treinamento, e ele não possui conhecimento além desses dados.
+
+Em resumo, o Mario GPT é uma ferramenta interessante para explorar e gerar conteúdo sobre o universo do Super Mario, mas é importante usá-lo com cautela e lembrar que suas respostas são baseadas em dados pré-existentes e não em um conhecimento próprio.
+
