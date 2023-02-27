@@ -1,3 +1,14 @@
+# Essas linhas de código parecem ser instruções para o gerenciador de pacotes Python "setuptools" sobre quais arquivos e diretórios devem ser incluídos ao empacotar e distribuir um projeto chamado "mario_gpt".
+
+# A linha "recursive-include mario_gpt/data/tiles *" sugere que todos os arquivos do diretório "tiles" dentro do diretório "data" devem ser incluídos na distribuição, juntamente com todos os seus subdiretórios.
+
+# A linha "recursive-include mario_gpt/simulator/img *" indica que todos os arquivos do diretório "img" dentro do diretório "simulator" também devem ser incluídos, juntamente com todos os seus subdiretórios.
+
+# As linhas "include mario_gpt/simulator/PlayLevel.jar" e "include mario_gpt/simulator/PlayAstar.jar" indicam que os arquivos "PlayLevel.jar" e "PlayAstar.jar" no diretório "simulator" devem ser incluídos na distribuição.
+
+
+Essas instruções são comuns em projetos Python que usam o setuptools para gerenciamento de dependências e distribuição de pacotes.
+
 recursive-include mario_gpt/data/tiles *
 recursive-include mario_gpt/simulator/img *
 include mario_gpt/simulator/PlayLevel.jar
